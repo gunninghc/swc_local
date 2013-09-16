@@ -1,1 +1,1 @@
-I learned about git branching today.
+I learned about git branching today. I also leaned about etherpad.
